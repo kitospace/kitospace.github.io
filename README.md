@@ -1,6 +1,7 @@
-# Your Name
+Hello and welcome! I'm delighted to have you here. This website is a reflection of my journey, passions, and projects. Here, you'll find a curated collection of my work, thoughts, and experiences. I hope you find something that resonates with you.
 
-Welcome to my personal website! This site showcases my projects, experiences, and interests. Feel free to explore and connect with me.
+Thank you for visiting and enjoy your stay!
+
 
 ## About Me
 
